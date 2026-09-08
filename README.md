@@ -4,8 +4,8 @@
 
 | Nombre completo    | Registro | Usuario GitHub |
 | ------------------ | -------- | -------------- |
-| DIDIER DETCHEMENDY |          |                |
-| SANTIAGO MESONES   |          |                |
+| DIDIER DETCHEMENDY |          | didetchemendy  |
+| SANTIAGO MESONES   |          | Santiago1614   |
 | MARTINA            |          |                |
 | LEONARDO GOMEZ     | 921318   | gleo1973       |
 |                    |          |                |
