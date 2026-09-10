@@ -5,7 +5,7 @@
 | Nombre completo    | Registro | Usuario GitHub |
 | ------------------ | -------- | -------------- |
 | DIDIER DETCHEMENDY | 921341   | didetchemendy  |
-| SANTIAGO MESONES   |          | Santiago1614   |
+| SANTIAGO MESONES   | 921306   | Santiago1614   |
 | MARTINA BISIO      | 921302   | Tinirainboom   |
 | LEONARDO GOMEZ     | 921318   | gleo1973       |
 |                    |          |                |
