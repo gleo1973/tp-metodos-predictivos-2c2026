@@ -1,0 +1,72 @@
+0. DESCRIPCIÓN Y FUENTE DEL DATASET
+   0.1 Descripción de Online News Popularity
+   0.2 Fuente y origen de los datos
+   0.3 Objetivo general del análisis
+
+1. CARGA Y EXPLORACIÓN INICIAL DEL DATASET
+   1.1 Carga de la base
+   1.2 Dimensiones del dataset
+   1.3 Identificación de la variable objetivo
+   1.4 Inventario y tipología de variables
+   1.5 Análisis de escalas y rangos
+
+2. LIMPIEZA Y PREPROCESAMIENTO
+   2.1 Valores faltantes
+   2.2 Registros duplicados
+   2.3 Inconsistencias
+   2.4 Variables no informativas
+   2.5 Detección y análisis de outliers
+   2.6 Decisiones de limpieza y justificación
+
+3. ANÁLISIS EXPLORATORIO Y DESCRIPTIVO
+   3.1 Estadísticos descriptivos
+   3.2 Análisis de la variable objetivo: shares
+   3.3 Distribución de las variables
+   3.4 Análisis de relaciones entre variables
+   3.5 Matriz de correlación
+   3.6 Principales hallazgos del análisis exploratorio
+
+4. DEFINICIÓN DEL PROBLEMA PREDICTIVO
+   4.1 Pregunta de investigación
+   4.2 Necesidad que busca resolver el modelo
+   4.3 Variable objetivo
+   4.4 Hipótesis iniciales
+
+5. MUESTREO E INFERENCIA
+   5.1 Extracción de la muestra aleatoria de n = 750
+   5.2 Comparación muestra vs. población
+   5.3 Media de shares
+   5.4 Varianza de shares
+   5.5 Evaluación de la representatividad de la muestra
+
+6. MODELO ESTADÍSTICO: REGRESIÓN LINEAL
+   6.1 Preparación de las variables
+   6.2 Regresión lineal con la muestra de 750
+   6.3 Análisis de coeficientes y significatividad
+   6.4 Regresión lineal con la base completa
+   6.5 Análisis de coeficientes y significatividad
+   6.6 Comparación muestra vs. base completa
+   6.7 Comparación del R² y errores estándar
+
+7. MACHINE LEARNING
+   7.1 Preparación de los datos
+   7.2 División Train/Test
+   7.3 Modelo de Machine Learning N.º 1
+   7.4 Modelo de Machine Learning N.º 2
+   7.5 Evaluación: MAE, MSE, RMSE y R²
+   7.6 Comparación de los modelos
+   7.7 Análisis de importancia de variables
+   7.8 Overfitting y optimización
+
+8. COMPARACIÓN: ESTADÍSTICA vs. MACHINE LEARNING
+   8.1 Capacidad explicativa de la Regresión Lineal
+   8.2 Capacidad predictiva de Machine Learning
+   8.3 Interpretabilidad vs. precisión
+   8.4 Selección del modelo para producción
+
+9. CONCLUSIONES
+   9.1 Principales hallazgos
+   9.2 Validación de las hipótesis iniciales
+   9.3 Limitaciones del análisis
+   9.4 Variables adicionales que mejorarían el modelo
+   9.5 Conclusión final
