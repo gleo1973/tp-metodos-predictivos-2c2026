@@ -9,7 +9,7 @@
 | MARTINA BISIO      | 921302   | Tinirainboom   |
 | LEONARDO GOMEZ     | 921318   | gleo1973       |
 | LORENZO CAIROLA    | 921307   | lorenzocairola |
-|                    |          |                |
+| KATHERINE FREITES  |          |                |
 |                    |          |                |
 
 ---
