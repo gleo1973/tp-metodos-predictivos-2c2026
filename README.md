@@ -10,7 +10,7 @@
 | Nombre completo | Registro | Usuario GitHub |
 | :--- | :---: | :---: |
 | **Martina Bisio** | 921302 | [Tinirainboom] |
-| **Katherine Freites** | *Completar* | *Completar* |
+| **Katherine Freites** | *Completar* | [Facuecoyese-bot] |
 | **Didier Detchemendy** | 921341 | [didetchemendy]|
 | **Santiago Mesones** | 921306 | [Santiago1614]|
 | **Leonardo Gomez** | 921318 | [gleo1973]|
